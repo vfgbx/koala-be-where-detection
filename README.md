@@ -18,21 +18,7 @@ The project was originally developed as part of the **Koala Be Where** project a
 
 ---
 
-## Suggested GitHub Description
-
-```text
-Four-channel Faster R-CNN koala detection pipeline with Sobel edge input, Open Images data collection, hard-negative mining, and image/video inference.
-```
-
-A shorter version:
-
-```text
-Computer vision pipeline for koala detection using Faster R-CNN, Sobel edges, and hard-negative mining.
-```
-
----
-
-## Suggested Project Structure
+## Project Structure
 
 ```text
 koala-be-where-detection/
